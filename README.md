@@ -2,10 +2,14 @@
   Benjamin Calisto (KBeDevel)
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbedevel&show_icons=true&theme=dark">
-</p>
+I'm a software engineer, commited with security, good practices and research.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbedevel&langs_count=10&show_icons=true&theme=dark">
-</p>
+Some programming languages I like to use and study:
+
+- TypeScript
+- Python
+- CoffeeScript
+- Ruby
+- Go
+- Rust
+- C++
