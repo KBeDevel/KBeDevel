@@ -1,15 +1,7 @@
-<h1 align='center'>
-  Benjamin Calisto (KBeDevel)
-</h1>
+hello deh! I'm Benjamin Calisto
 
 I'm a software engineer, commited with security, good practices and research.
 
-Some programming languages I like to use and study:
+I love veg curry and pizza.
 
-- TypeScript
-- Python
-- CoffeeScript
-- Ruby
-- Go
-- Rust
-- C++
+I'm from that country with a spicy pepper layout.
